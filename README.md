@@ -1,10 +1,10 @@
 # Greeting Alert!
 
-I'm a Bachelor on **Business manegement.** I am currently learning coding and improving my english skills at _**Riwi**_. My top languages on coding are:
+I'm a Bachelor on **Business manegement.** 📈 💼 I am currently learning coding and improving my english skills at _**Riwi**_. My top languages on coding are:
 ###
-* Kotlin
-* JavaScript
-* Java
+* Kotlin 🇰
+* JavaScript 🇯‌🇸‌
+* Java ♨️
 
 But learning python is one of my goals, so I can fall in love with it.
 
