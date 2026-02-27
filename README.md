@@ -1,34 +1,41 @@
 # Greeting Alert!
 
-I'm a Bachelor on **Business manegement.** 📈 💼 I am currently learning coding and improving my english skills at _**Riwi**_. My top languages on coding are:
+I'm a Bachelor's graduate in **Business Management**. 📈 💼 
+
+Currently, I'm learning to code and improving my English skills at __**Riwi**__.
+
+### 💻 Top Programming Languages:
 ###
 * Kotlin 🇰
 * JavaScript 🇯‌🇸‌
 * Java ♨️
 
-But learning Python is one of my goals, so I can fall in love with it.
+Learning Python is one of my main goals — I’m ready to fall in love with it. 🐍✨
 
-On weekends my time is spent on politics at U's party 🏛️📜⚖️🎓.
+### 🏛️ Interests
 
-✍📝_**Writing**_ is my passion since I was **4 years old**, and I started writing novels since then (especially psycologicals). 📖𝚿🧠
+On weekends, I spend my time involved in politics at the U's Party. 📜⚖️.
 
-As a life project, I'm making a professional script for a streaming serie🎬, where all my past novels are mixed up. Everyday I work on it at least **4 hours**, even if the resting time or hobbies are sacrificed.
+✍️ _**Writing**_ has been my passion since I was **4 years old**. I’ve been writing novels ever since, especially _**psychological**_ ones. 📖🧠
 
-### Hobbies: 🎨🖌️🌿✨🎧
+As a life project, I'm developing a professional script for a streaming series 🎬 where all my previous novels are connected into one universe.
+I work on it at least **4 hours** every day, even if it means sacrificing rest or hobbies.
 
-* Videogames 🎮🕹️👾
-* Calisthenics 🏋🏽🔥💪🏼🎧
-* Cardio workout 🏃
+### 🎯 Hobbies
+
+* Videogames 🎮
+* Calisthenics 🏋🏽
+* Cardio 🏃
 * Taekwondo 🥋
 
-### Random facts
+### 🌎 Random Facts
 
-* Parties and fast foods make me sick _(not literal)_
-* Eating healthy food like an **obseessed madman** is an always.
-* As a kid I spoke 4 languages: 
+* Parties and fast food make me feel sick (not literally).
+* I’m obsessed with healthy eating.
+* As a child, I spoke four languages:
     * Spanish 🇨🇴
     * English 🇺🇸
     * Portuguese 🇧🇷
     * Japanese 🇯🇵 
 
-But the obsession to do and know everything, the time expend it to practice them was _**0**_. So japanese 愛 is no longer an understood language to me. In adittion, my english and portuguese skills decreased almost like a newbie.
+But the obsession to do and know everything, the time expend it to practice them was _**0**_. So japanese 愛 is no longer an understood language to me. In adittion, my english and portuguese skills decreased significantly.
