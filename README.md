@@ -10,7 +10,7 @@ Currently, I'm learning to code and improving my English skills at __**Riwi**__.
 * JavaScript 🇯‌🇸‌
 * Java ♨️
 
-Learning Python is one of my main goals — I’m ready to fall in love with it. 🐍✨
+Learning Python is one of my main goals. I’m ready to fall in love with it. 🐍✨
 
 ### 🏛️ Interests
 
