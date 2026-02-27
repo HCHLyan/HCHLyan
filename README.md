@@ -1,16 +1,34 @@
-## Hi there 👋
+# Greeting Alert!
 
-<!--
-**HCHLyan/HCHLyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor on **Business manegement.** I am currently learning coding and improving my english skills at _**Riwi**_. My top languages on coding are:
+###
+* Kotlin
+* JavaScript
+* Java
 
-Here are some ideas to get you started:
+But learning python is one of my goals, so I can fall in love with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On weekends my time is spent on politics at U's party.
+
+_**Writing**_ is my passion since I was **4 years old**, and I started writing novels since then (especially psycologicals).
+
+As a life project, I'm making a script for a professional streaming serie, where all my past novels are mixed up. Everyday I work on it at least **4 hours**, even if the resting time or hobbies are sacrificed.
+
+### Hobbies:
+
+* Videogames
+* Calisthenics
+* Cardio workout
+* Taekwondo 
+
+### Random facts
+
+* Parties and fast foods make me sick _(not literal)_
+* Eating healthy food like an **obseessed madman** is an always.
+* As a kid I spoke 4 languages: 
+    * Spanish
+    * English
+    * Portuguese
+    * Japanese
+
+But the obsession to do and know everything, the time expend it to practice them was _**0**_. So japanese is no longer an understood language to me. In adittion, my english and portuguese skills decreased almost like a newbie.
